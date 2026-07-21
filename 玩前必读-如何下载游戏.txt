@@ -1,0 +1,46 @@
+亲爱的朋友：
+
+您好，
+
+感谢您光临奶洲游戏，本游戏纯属抽象娱乐，如有侵权请联系，名字没有代指意义，构建良好健康github环境，谢谢大家；
+
+由于github不允许上传超过25MB的文件，
+
+所以为了能够顺利上传，我将游戏源文件分成了三个.html格式上传。
+
+在您游玩开始前，请分别下载三个.html文件，
+
+并使用记事本（.txt）格式打开，并将记事本格式调整成100%显示比例；
+
+随后将“奶洲v5.2下载点击即玩 - 下”中的内容Ctrl A +Ctrl X后，
+
+粘贴Ctrl V在“奶洲v5.2下载点击即玩 - 中”的最后一行的后面（记得换行）；
+
+随后，再将中+下的内容，复制粘贴在“奶洲v5.2下载点击即玩 - 上”的最后一行的后面（记得换行）；
+
+保存后，
+
+用.html格式打开即可畅玩奶洲了！
+
+
+
+Dear friends,
+
+Hello,
+
+Thank you for visiting Naizhou Game. This game is purely for abstract entertainment. If any copyright issues arise, please contact us. The names used do not imply any specific reference; we aim to maintain a healthy and positive environment on GitHub. Thank you for your understanding.
+
+Due to GitHub's file size limit of 25 MB per upload, I have split the game source files into three .html files for upload.
+
+Before you start playing, please download all three .html files. Then open them with Notepad (.txt format) and set the display scale to 100% in Notepad.
+
+Next, follow these steps:
+
+Open the file named "Naizhou v5.2 Click to Play - Lower". Select all its content (Ctrl+A) and cut it (Ctrl+X).
+
+Open the file named "Naizhou v5.2 Click to Play - Middle". Paste (Ctrl+V) the cut content at the very end of this file, after the last line (remember to add a line break before pasting if needed).
+
+Now open the file "Naizhou v5.2 Click to Play - Upper". Copy all the content from the now‑combined "Middle" file (which now includes the "Lower" content) and paste it at the very end of the "Upper" file, after the last line (again, remember to add a line break).
+
+After you have completed these steps, save the "Upper" file (which now contains all the combined content). Then open that file with your web browser (as .html) and you can enjoy playing Naizhou immediately!
+
